@@ -1,6 +1,8 @@
 # Proyecto2
 Proyecto final de matematicas discretas
-Manual de usuario 
+
+# Manual de usuario 
+
 GitHub ofrece Codespaces, un entorno en la nube para ejecutar el código directamente desde el repositorio. Aquí está cómo:
 1.	Ve al repositorio en GitHub.
 2.	Haz clic en el botón "Code".
